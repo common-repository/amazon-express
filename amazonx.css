@@ -1,0 +1,106 @@
+div.amazonx-spacer {
+  height: 5px;
+}
+
+#content div.amazonx-product {
+  background: #F0F0F0; 
+  float: left; 
+  border: 1px solid #D0D0D0;
+  padding: 10px 10px 5px 10px;
+  margin: 10px; /* top right bottom left */
+}
+
+#content img.amazonx-image {
+  width: 200px;
+  height: auto;
+}
+
+#content img.amazonx-button {
+  margin-top: 5px;
+}
+
+#content div.amazonx-item {
+  font-size: 12px;
+  line-height: 14px;
+}
+
+#content div.amazonx-category {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#content div.amazonx-clear{
+  clear: both;
+  height: 30px;	/* spacing between posts */
+}
+
+#content div.amazonx-item h2{
+  display: inline;
+  font-size: 16px;
+}
+
+#content div.amazonx-item div.amazonx-content {
+  margin-top: 10px;
+}
+
+#content div.amazonx-item img.amazonx-image {
+  width: 100px;
+  height: auto;
+}
+
+span.amazonx-rating {  
+  margin-right: 10px;
+  float: right;
+}
+
+div.amazonx-product span.amazonx-rating {
+  margin: 0px;
+  float: none;
+}
+
+#content div.amazonx-item div.amazonx-product span.amazonx-rating {
+  margin: 0px;
+  float: none;
+}
+
+div.amazonx-product A:link {
+  text-decoration: none;
+}
+
+div.amazonx-product A:visited{
+  text-decoration: none;
+}
+
+div.amazonx-product A:active {
+  text-decoration: none;
+}
+
+div.amazonx-product A:hover {
+  text-decoration: none;
+}
+
+#content span.amazonx-filled-star {
+  color: #666;
+  font-size: 12px;
+}
+
+#content span.amazonx-empty-star {
+  color: #CCC;
+  font-size: 12px;
+}
+
+#content div.amazonx-item span.amazonx-rating {
+  margin-right: 10px;
+  float: right;
+}
+
+#content div.amazonx-item span.amazonx-filled-star {
+  color: #666;
+  font-size: 12px;
+}
+
+#content div.amazonx-item span.amazonx-empty-star {
+  color: #CCC;
+  font-size: 12px;
+}
+
